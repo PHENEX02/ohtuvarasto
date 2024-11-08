@@ -8,7 +8,7 @@
 
 # 4. Tiedostojen lisääminen GitHubiin - DONE
 
-# 5. Monta kloonia samasta repositoriosta - WIP
+# 5. Monta kloonia samasta repositoriosta - DONE
 
 # 6. Repositorion siivous - WIP
 
