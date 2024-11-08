@@ -12,7 +12,7 @@
 
 # 6. Repositorion siivous - DONE
 
-# 7. Poetry - WIP
+# 7. Poetry - DONE
 
 # 8. Unittest - WIP
 
