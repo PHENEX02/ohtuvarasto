@@ -10,7 +10,7 @@
 
 # 5. Monta kloonia samasta repositoriosta - DONE
 
-# 6. Repositorion siivous - WIP
+# 6. Repositorion siivous - DONE
 
 # 7. Poetry - WIP
 
