@@ -1,1 +1,8 @@
-Salaista salalista salaisuuksille salaisuuksista
+# Ignorataan kaikki .tmp-päätteiset tiedostot juurihakemistosta
+/*.tmp
+
+# Ignorataan __pycache__-hakemistot kaikkialta
+__pycache__/
+
+# Ignorataan .pytest_cache-hakemistot kaikkialta
+.pytest_cache/
