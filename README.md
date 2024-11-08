@@ -6,7 +6,7 @@
 
 # 3. Gitin alkeet - DONE
 
-# 4. Tiedostojen lisääminen GitHubiin - WIP
+# 4. Tiedostojen lisääminen GitHubiin - DONE
 
 # 5. Monta kloonia samasta repositoriosta - WIP
 
