@@ -1,5 +1,7 @@
 # ohtuvarasto
 
+![GHA workflow badge](https://github.com/PHENEX02/ohtuvarasto/workflows/CI/badge.svg)
+
 # 1. Komentorivi - DONE
 
 # 2. GitHubiin versionhallinta - DONE
@@ -14,13 +16,13 @@
 
 # 7. Poetry - DONE
 
-# 8. Unittest - WIP
+# 8. Unittest - DONE
 
-# 9. GitHub Actions, osa 1 - WIP
+# 9. GitHub Actions, osa 1 - DONE
 
-# 10. GitHub Actions, osa 2 - WIP
+# 10. GitHub Actions, osa 2 - DONE
 
-# 11. GitHub Actions, osa 3 - WIP
+# 11. GitHub Actions, osa 3 - DONE
 
 # 12. Codecov - WIP
 
