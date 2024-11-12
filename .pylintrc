@@ -27,3 +27,6 @@ max-statements = 15
 
 [DOCS]
 docstring-min-length = 10
+
+[BASIC]
+variable-rgx=[a-z_][a-z0-9_]{0,30}$  # Adjust variable naming regex
