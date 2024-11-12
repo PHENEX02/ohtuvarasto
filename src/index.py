@@ -1,7 +1,18 @@
+"""
+This module provides a demonstration of the Varasto class, showing its basic 
+usage and functionality. It initializes instances of the Varasto class with 
+various values and performs actions such as adding to and removing items from 
+the storage. It also demonstrates error handling for invalid inputs.
+"""
 from varasto import Varasto
 
-
 def main():
+    """
+    Main function to demonstrate the usage of the Varasto class. It creates 
+    instances of Varasto, displays initial values, modifies the contents, and 
+    handles error scenarios. This function also tests the getter methods, 
+    addition, and removal functionality of Varasto instances.
+    """
     mehua = Varasto(100.0)
     olutta = Varasto(100.0, 20.2)
 
