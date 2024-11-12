@@ -6,3 +6,7 @@ __pycache__/
 
 # Ignorataan .pytest_cache-hakemistot kaikkialta
 .pytest_cache/
+
+.coverage
+
+htmlcov
